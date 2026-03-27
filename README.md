@@ -2,6 +2,8 @@
 
 EasyClaw is a Next.js onboarding wrapper for OpenClaw designed for non-technical users. It provides a guided QR-first setup flow for WhatsApp (plus Slack, Discord, Telegram, and more), and a lightweight dashboard for gateway status.
 
+Making OpenClaw and NanoClaw accessible to non-technical users and small to medium-sized businesses.
+
 ## Prerequisites
 
 - Node.js 22+
